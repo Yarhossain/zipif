@@ -1,0 +1,30 @@
+.contact-banner-section{
+
+padding: 30px 80px;
+}
+.contact-content{
+	background: url('../images/zipify-contact-banner.jpg');
+	padding: 83px 65px 294px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 60vh;
+}
+.contact-content img{
+    max-width: 45%;
+    padding: 0px 20px;
+}
+.contact-content h6{
+    font-size: 18px;
+    font-weight: 500;
+    padding: 26px 20px;
+}
+.contact-content h6 a{}
+.contact-content p{
+    font-size: 18px;
+    font-weight: 400;
+    padding: 0px 20px;
+}
+.g-5, .gx-5 {
+    --bs-gutter-x: 7rem;
+}

@@ -1,0 +1,31 @@
+.banner-section{
+    background: linear-gradient(160deg, rgba(255,255,255,1) 0%,rgba(255,255,255,1) 50%,rgba(242,242,242,1) 50%,rgba(242,242,242,1) 100%);
+    color: #000 !important;
+    padding: 100px;
+}
+.banner-left{}
+.banner-left img{
+	padding-left: 25px;
+}
+.banner-right{}
+.banner-right h2{
+    font-size: 46px;
+    font-weight: 600;
+    color: #3bb44a;
+}
+.banner-right p{
+    color: #75757e;
+    line-height: 38px;
+    font-size: 19px;
+    padding: 23px 0px;
+    font-weight: 500;
+}
+
+.product-section{
+    padding: 100px 0px 180px;
+}
+.product-img{}
+.product-img img{}
+.product-content{}
+.product-content p{}
+.product-content a{}

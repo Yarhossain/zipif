@@ -1,0 +1,69 @@
+.collups-section{
+    background: #d9d9d9;
+}
+.collups-section p{}
+.collups-section p a , .collups-section p button{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 7px;
+    color: #9d9d9d;
+    background: #ededed;
+    letter-spacing: 1.2px;
+}
+.collups-section p a:hover{
+	color: #ff5552;
+	text-decoration: underline;
+	background-color: #f9f9f9;
+	border-bottom: 2px solid #ff5552;
+	}
+.collups-section p button:hover{
+	color: #ff5552;
+	text-decoration: underline;
+	background-color: #f9f9f9;
+	border-bottom: 2px solid #ff5552;
+}
+
+.collups-section p button{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 7px;
+    background: #ededed;
+    color: #9d9d9d;
+    letter-spacing: 1.2px;
+}
+.collups-section-content{
+    padding: 17px 152px;
+}
+.collups-section-content .card {
+    border: 0px;
+    padding: 1rem 0rem;
+}
+.collups-section-content a{
+    text-decoration: none;
+}
+.collups-section-content img{}
+.collups-section-content h4{
+    font-size: 14px;
+    color: #17383f;
+    background: #ededed;
+    padding: 16px 32px 20px;
+    line-height: 1.8;
+    font-weight: 700;
+}
+.see-more-btn{}
+.see-more-btn a{
+    text-decoration: none;
+    background-color: #7b9f5d;
+    color: #ffffff;
+    padding: 8px 18px;
+    transition-duration: 0.3s;
+}
+.see-more-btn a:hover{
+	color: #fff;
+	background: #657d52;
+}
+

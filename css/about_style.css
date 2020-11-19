@@ -1,0 +1,95 @@
+.banner-section{
+    background: linear-gradient(160deg, rgba(255,255,255,1) 0%,rgba(255,255,255,1) 50%,rgba(242,242,242,1) 50%,rgba(242,242,242,1) 100%);
+    color: #000 !important;
+    padding: 100px;
+}
+.banner-left{}
+.banner-left img{
+    padding-left: 25px;
+}
+.banner-right{}
+.banner-right h2{
+    font-size: 46px;
+    font-weight: 600;
+    color: #3bb44a;
+}
+.banner-right p{
+    color: #75757e;
+    line-height: 38px;
+    font-size: 19px;
+    padding: 23px 0px;
+    font-weight: 500;
+}
+.about-section{padding: 44px 0px 0px!important;margin-bottom: -15px;}
+.about-img{}
+.about-img img{
+    padding-left: 25px;
+}
+.about-me-content{
+    padding: 50px 0px;
+}
+.about-me-content h2{
+    font-size: 36px;
+    font-weight: 600;
+    color: #56565E;
+}
+.about-me-content p{
+    color: #75757e;
+    line-height: 33px;
+    font-size: 19px;
+    padding: 23px 0px;
+    font-weight: 500;
+}
+.about-me-content a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #3bb44a;
+    font-weight: 600;
+    font-size: 16px;
+    letter-spacing: 0.8px;
+}
+.signup-section{
+    background: #52535e;
+    padding: 75px 122px;
+}
+.signup-content{}
+.signup-content h2{
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.signup-content h1{
+    font-size: 38px;
+    font-weight: 700;
+    letter-spacing: 0.1px;
+    padding: 0px 83px 32px;
+}
+.signup-content form{
+    max-width: 856px;
+    margin: 0 auto
+}
+.signup-content form input[type="email"]{
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    color: #75757e;
+    padding: 12px 10px 16px;
+    width: calc(100% - 358px);
+    min-width: 500px;
+}
+.signup-content form input[type="submit"]{
+    padding: 23px 20px 22px !important;
+    background-color: #3bb44a;
+    box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.2);
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 1;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #ffffff;
+    border: none;
+    text-transform: uppercase;
+    margin-left: 26px;
+}
+
+
